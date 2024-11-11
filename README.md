@@ -14,9 +14,9 @@ MediaMania is a web application that enables users to explore trending movies an
     
 ## Screenshots
 <p align="center">
-    <img src="images/Screenshot_1.png" width="350" title="HomePage">
-    <img src="images/Screenshot_2.png" width="350" title="Search">
-    <img src="images/Screenshot_3.png" width="350" title="Recommendations">
+    <img src="images/Screenshot_1.png" width="500" title="HomePage">
+    <img src="images/Screenshot_2.png" width="500" title="Search">
+    <img src="images/Screenshot_3.png" width="500" title="Recommendations">
 </p>
 
 ## Technologies Used
