@@ -13,9 +13,9 @@ MediaMania is a web application that enables users to explore trending movies an
     4. Installation & Setup
     
 ## Screenshots
-![Home Page](images/screenshot_3.png)
-![Search](images/screenshot_2.png)
-![Recommendations](images/screenshot_1.png)
+images/Screenshot_1.png
+images/Screenshot_2.png
+images/Screenshot_3.png
 
 ## Technologies Used
 - Backend: Flask, Flask-SQLAlchemy, Flask-Login, Flask-WTF, Flask-Migrate
